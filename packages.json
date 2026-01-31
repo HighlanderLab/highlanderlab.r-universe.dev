@@ -13,6 +13,10 @@
     "subdir": "RcppTskit"
   },
   {
+    "package": "RcppTskitTestLinking",
+    "url": "https://github.com/HighlanderLab/RcppTskitTestLinking"
+  },
+  {
     "package": "SIMplyBee",
     "url": "https://github.com/highlanderlab/SIMplyBee"
   }
