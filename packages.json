@@ -1,0 +1,19 @@
+[
+  {
+    "package": "AlphaSimR",
+    "url": "github.com/gaynorr/AlphaSimR"
+  },
+  {
+    "package": "AlphaPart",
+    "url": "github.com/alphagenes/AlphaPart"
+  },
+  {
+    "package": "RcppTskit",
+    "url": "https://github.com/highlanderlab/RcppTskit",
+    "subdir": "RcppTskit"
+  },
+  {
+    "package": "SIMplyBee",
+    "url": "https://github.com/highlanderlab/SIMplyBee"
+  }
+]
