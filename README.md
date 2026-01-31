@@ -13,4 +13,6 @@ AlphaSimR [![AlphaSimR status badge](https://highlanderlab.r-universe.dev/AlphaS
 
 RcppTskit [![RcppTskit status badge](https://highlanderlab.r-universe.dev/RcppTskit/badges/version?color=green)](https://highlanderlab.r-universe.dev/RcppTskit)
 
+RcppTskitTestLinking [![RcppTskit status badge](https://highlanderlab.r-universe.dev/RcppTskitTestLinking/badges/version?color=green)](https://highlanderlab.r-universe.dev/RcppTskitTestLinking)
+
 SIMplyBee [![SIMplyBee status badge](https://highlanderlab.r-universe.dev/SIMplyBee/badges/version?color=yellow)](https://highlanderlab.r-universe.dev/SIMplyBee)
