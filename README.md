@@ -3,6 +3,10 @@ R universe for packages from the HighlanderLab and friends
 
 https://highlanderlab.r-universe.dev
 
+https://github.com/r-universe/highlanderlab
+
+https://github.com/r-universe/highlanderlab/actions
+
 [![name status badge](https://highlanderlab.r-universe.dev/badges/:name)](https://highlanderlab.r-universe.dev/)
 [![registry status badge](https://highlanderlab.r-universe.dev/badges/:registry)](https://highlanderlab.r-universe.dev/)
 [![packages status badge](https://highlanderlab.r-universe.dev/badges/:packages)](https://highlanderlab.r-universe.dev/packages)
