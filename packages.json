@@ -8,6 +8,10 @@
     "url": "https://github.com/alphagenes/AlphaPart"
   },
   {
+    "package": "pedigreeTools",
+    "url": "https://github.com/Rpedigree/pedigreeTools"
+  },
+  {
     "package": "RcppTskit",
     "url": "https://github.com/highlanderlab/RcppTskit",
     "subdir": "RcppTskit"
