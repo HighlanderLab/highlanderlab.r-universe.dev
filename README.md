@@ -11,6 +11,8 @@ AlphaPart [![AlphaPart status badge](https://highlanderlab.r-universe.dev/AlphaP
 
 AlphaSimR [![AlphaSimR status badge](https://highlanderlab.r-universe.dev/AlphaSimR/badges/version?color=red)](https://highlanderlab.r-universe.dev/AlphaSimR)
 
+pedigreeTools [![pedigreeTools status badge](https://highlanderlab.r-universe.dev/pedigreeTools/badges/version?color=black)](https://highlanderlab.r-universe.dev/pedigreeTools)
+
 RcppTskit [![RcppTskit status badge](https://highlanderlab.r-universe.dev/RcppTskit/badges/version?color=green)](https://highlanderlab.r-universe.dev/RcppTskit)
 
 RcppTskitTestLinking [![RcppTskit status badge](https://highlanderlab.r-universe.dev/RcppTskitTestLinking/badges/version?color=green)](https://highlanderlab.r-universe.dev/RcppTskitTestLinking)
