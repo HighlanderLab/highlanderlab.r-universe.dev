@@ -13,7 +13,10 @@ https://github.com/r-universe/highlanderlab/actions
 
 AlphaPart [![AlphaPart status badge](https://highlanderlab.r-universe.dev/AlphaPart/badges/version?color=blue)](https://highlanderlab.r-universe.dev/AlphaPart) [![AlphaPart status badge](https://highlanderlab.r-universe.dev/AlphaPart/badges/checks?color=blue)](https://highlanderlab.r-universe.dev/AlphaPart)
 
-AlphaSimR [![AlphaSimR status badge](https://highlanderlab.r-universe.dev/AlphaSimR/badges/version?color=red)](https://highlanderlab.r-universe.dev/AlphaSimR) [![AlphaSimR status badge](https://highlanderlab.r-universe.dev/AlphaSimR/badges/checks?color=red)](https://highlanderlab.r-universe.dev/AlphaSimR)
+AlphaSimR
+  * upstream@https://github.com/gaynorr/alphasimr [![AlphaSimR status badge](https://gaynorr.r-universe.dev/AlphaSimR/badges/version?color=red)](https://gaynorr.r-universe.dev/AlphaSimR) [![AlphaSimR status badge](https://gaynorr.r-universe.dev/AlphaSimR/badges/checks?color=red)](https://gaynorr.r-universe.dev/AlphaSimR)
+
+  * fork@https://github.com/HighlanderLab/alphasimr [![AlphaSimR status badge](https://highlanderlab.r-universe.dev/AlphaSimR/badges/version?color=red)](https://highlanderlab.r-universe.dev/AlphaSimR) [![AlphaSimR status badge](https://highlanderlab.r-universe.dev/AlphaSimR/badges/checks?color=red)](https://highlanderlab.r-universe.dev/AlphaSimR)
 
 pedigreeTools [![pedigreeTools status badge](https://highlanderlab.r-universe.dev/pedigreeTools/badges/version?color=black)](https://highlanderlab.r-universe.dev/pedigreeTools) [![pedigreeTools status badge](https://highlanderlab.r-universe.dev/pedigreeTools/badges/checks?color=black)](https://highlanderlab.r-universe.dev/pedigreeTools)
 
