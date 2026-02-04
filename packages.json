@@ -4,6 +4,10 @@
     "url": "https://github.com/gaynorr/AlphaSimR"
   },
   {
+    "package": "AlphaSimR",
+    "url": "https://github.com/highlanderlab/AlphaSimR"
+  },
+  {
     "package": "AlphaPart",
     "url": "https://github.com/alphagenes/AlphaPart"
   },
